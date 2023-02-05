@@ -25,9 +25,9 @@
         'demo/demo.xml',
     ],
     'installable': True,
-    'application': False,
+    'application': True,
     'auto_install': False,
-    'images': ['static/description/icon.png'],
+    'images': ['static/description/banner.gif'],
     'assets': {
         'web.assets_backend': [
             'fleet_monitoring/static/src/**/*',
