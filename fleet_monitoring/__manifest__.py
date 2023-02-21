@@ -3,13 +3,13 @@
     'name': 'Fleet Monitoring',
     'version': '16.0.0.0.0',
     'summary': 'Handle live fleet monitoring on map',
-    'author': 'Kothiya Rajesh',
-    'company': 'Kothiya Rajesh',
-    'website': 'https://in.linkedin.com/in/kothiya-rajesh',
+    'author': 'RKO',
+    'company': 'RKO',
+    'website': '',
     'price': 0,
     'currency': 'USD',
     'category': 'Human Resources',
-    'maintainer': 'Kothiya Rajesh',
+    'maintainer': 'RKO',
 
     # any module necessary for this one to work correctly
     'depends': ['base', 'fleet', 'base_geolocalize'],
